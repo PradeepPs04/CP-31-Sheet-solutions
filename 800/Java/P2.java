@@ -1,6 +1,5 @@
 import java.util.*;
 
-// change this public class name to "LineTrip" before submitting code on CF
 public class P2 {
     static void solve(Scanner scanner) {
         int n = scanner.nextInt();

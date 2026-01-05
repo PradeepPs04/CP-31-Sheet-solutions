@@ -1,6 +1,5 @@
 import java.util.*;
 
-// change this public class name to "CoverInWater" before submitting code on CF
 public class P3 {
     static void solve(Scanner scanner) {
         int n = scanner.nextInt();

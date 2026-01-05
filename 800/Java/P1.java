@@ -1,6 +1,5 @@
 import java.util.*;
 
-// change this public class name to "HalloumiBoxes" before submitting code on CF
 public class P1 {
 
     static void solve(Scanner scanner) {
